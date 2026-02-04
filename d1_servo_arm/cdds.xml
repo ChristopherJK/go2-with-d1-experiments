@@ -1,0 +1,14 @@
+<CycloneDDS>
+  <Domain>
+    <General>
+      <!-- NIC im Go2-Subnetz -->
+      <Interfaces>
+        <NetworkInterface address="192.168.123.222"/>
+      </Interfaces>
+      <AllowMulticast>true</AllowMulticast>
+      <EnableMulticastLoopback>false</EnableMulticastLoopback>
+      <Transport>udp</Transport>
+    </General>
+
+  </Domain>
+</CycloneDDS>
