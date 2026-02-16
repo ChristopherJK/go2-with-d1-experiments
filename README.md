@@ -3,11 +3,7 @@ Source code of go2 and d1 robot arm movements from Forschungsseminar project at 
 
 In order to reproduce the experiments from the paper, you first need to install the required libraries and sdk´s, which is described in the upcoming sections. Then in the "Robot movements" folder you will find the code used to move the d1 arm, the go2 and for the whole pick and place movement of the efficency section.
 
-<div style="width:100%; height:240px; overflow:hidden; border-radius:8px; margin-bottom:12px;">
-  <img src="https://top3dshop.com/image/catalog/products/robots/unitree_robotics/go2/unitree_robotics_go2_image10.jpg"
-       alt="Navel Robotics"
-       style="width:100%; height:100%; object-fit:cover;" />
-</div>
+---
 
 ## Ressources
 
