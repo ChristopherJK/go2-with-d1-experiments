@@ -1,3 +1,13 @@
+"""sequence_2_arm_and_go2_parallel.py - Execute the arm and Go2 movement in parallel for the pick and place sequence, measuring the time taken for the entire process.
+
+Created on 17.01.2026 by Christopher Kania for Forschungsseminar, TH Köln."""
+
+__author__      = "Christopher Kania"
+__license__   = "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)"
+__version__ = "1.0"
+__maintainer__ = "Christopher Kania"
+__email__ = "kania.christopher@web.de"
+
 from ikpy.chain import Chain
 from ikpy.link import OriginLink, URDFLink
 import matplotlib.pyplot
