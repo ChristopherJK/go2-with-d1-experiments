@@ -1,4 +1,4 @@
-# go2-with-d1-experiments
+# Experiments with go2 quadruped and d1 robotic arm
 Source code of go2 and d1 robot arm movements from Forschungsseminar project at TH Cologne.
 
 In order to reproduce the experiments from the paper, you first need to install the required libraries and sdk´s, which is described in the upcoming sections. Then in the "Robot movements" folder you will find the code used to move the d1 arm, the go2 and for the whole pick and place movement of the efficency section.
